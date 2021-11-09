@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>lab1</h1>
-    <h1>lab1</h1>
+    <h1>lab2</h1>
+    <h1>lab2</h1>
 </body>
 </html>
